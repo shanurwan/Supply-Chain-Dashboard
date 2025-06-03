@@ -3,7 +3,7 @@
 ## 🚚 PROJECT OVERVIEW
 This project presents a dynamic supply chain performance dashboard built with Microsoft Power BI, aimed at transforming raw logistics data into actionable insights. Designed for decision-makers, the dashboard uncovers key trends in product sales, transport efficiency, city-level revenue contributions, and customer satisfaction. It empowers supply chain teams to identify pain points and streamline delivery operations for better planning and execution.
 
-📊 View the interactive dashboard here → Click to view project 
+📊 View the interactive dashboard here → [Click to view project](https://app.powerbi.com/view?r=eyJrIjoiMDBhZmYzMTQtMmE5Ni00N2RlLWJkOTYtZGY3YmIwZDdmZTVhIiwidCI6ImE2M2JiMWE5LTQ4YzItNDQ4Yi04NjkzLTMzMTdiMDBjYTdmYiIsImMiOjEwfQ%3D%3D) 
 
 ## 🎯 PROJECT OBJECTIVES
 To analyze product-level and city-level revenue trends for strategic sales planning.
